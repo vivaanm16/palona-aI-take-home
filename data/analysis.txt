@@ -1,0 +1,10 @@
+**Campaign Performance Analysis**
+
+**Insights:**
+
+1. **Freelancer outperforms agency owner and marketing manager in terms of open and click-through rates**: Freelancer's open rate is 34% higher than the agency owner's, and click-through rate is 72% higher. This suggests that the freelancer's email campaigns are more engaging and effective.
+2. **Click-through rates are lower than open rates across all groups**: The average click-through rate is 0.15, which is lower than the average open rate of 0.48. This indicates that while many recipients are opening the emails, they are not engaging further with the content.
+
+**Actionable Recommendation:**
+
+* **Optimize email content and CTAs to improve click-through rates**: Analyze the email campaigns of the freelancer who outperformed the others and identify key elements that contributed to their success. Apply these learnings to the rest of the campaigns to improve click-through rates and ultimately drive more conversions.

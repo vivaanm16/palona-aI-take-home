@@ -1,0 +1,14 @@
+{
+  "agency_owner": {
+    "open_rate": 0.41,
+    "click_rate": 0.11
+  },
+  "freelancer": {
+    "open_rate": 0.55,
+    "click_rate": 0.19
+  },
+  "marketing_manager": {
+    "open_rate": 0.48,
+    "click_rate": 0.14
+  }
+}
