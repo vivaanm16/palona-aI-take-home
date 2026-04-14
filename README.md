@@ -67,7 +67,7 @@ User Input (Topic)
 
 ### 1. Clone repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/vivaanm16/palona-aI-take-home.git
 cd NovaMind
 
 pip install -r requirements.txt
